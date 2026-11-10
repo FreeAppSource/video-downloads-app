@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Video Downloads App",
+    "slug": "video-downloads",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E11D48"
+      }
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "videodownloads"
+  }
+}
