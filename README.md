@@ -1,5 +1,7 @@
 # Video Downloads App (SnapDown)
 
+> 👨‍💻 Developed by **[Suresh Kumar Meesala](https://github.com/SureshKumarMeesala)** · 🎨 UI design by **Sadek Hossen Rony** (credits below)
+
 A complete, high-performance media downloader & offline entertainment hub modeled directly after the **Video Downloads App** Sketch UI Kit (26 artboards in Interfaces page). Built with **React Native 0.88+**, **Expo SDK 58+**, and **Expo Router** using **pure JavaScript and JSX (`.js`, `.jsx`)**.
 
 ---
@@ -61,6 +63,21 @@ npx expo start
 Then press `i` for the iOS simulator, `a` for Android, or `w` for the web, or scan the QR code with Expo Go.
 
 <!-- run-locally:end -->
+
+<!-- developer:start -->
+
+## 👨‍💻 Developer
+
+This React Native app was developed by **Suresh Kumar Meesala**.
+
+| | |
+|---|---|
+| Developer | [Suresh Kumar Meesala](https://github.com/SureshKumarMeesala) |
+| GitHub | [@SureshKumarMeesala](https://github.com/SureshKumarMeesala) |
+| Organization | [FreeAppSource](https://github.com/FreeAppSource) |
+| Repository | <https://github.com/FreeAppSource/video-downloads-app> |
+
+<!-- developer:end -->
 
 ---
 
